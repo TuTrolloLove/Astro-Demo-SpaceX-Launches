@@ -10,4 +10,4 @@
 - Componentes interactivos usando Preact
 
 ## 👏 Agradecimientos
-Agradecimientos al creador de contenido ![MiduDev](https://github.com/midudev)
+Agradecimientos al creador de contenido [](https://github.com/midudev)
