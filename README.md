@@ -8,3 +8,6 @@
 - Página 404
 - Renderizado en el cliente
 - Componentes interactivos usando Preact
+
+## 👏 Agradecimientos
+Agradecimientos al creador de contenido @midudev
